@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Arquivos de dados
+turnstile.html
+turnstile-170603.txt
+turnstile-170610.txt
+turnstile-170617.txt
+turnstile-170624.txt
+turnstile_data_master_with_weather.csv
